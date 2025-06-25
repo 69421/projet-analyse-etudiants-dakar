@@ -41,12 +41,25 @@ L'analyse s'est déroulée en deux phases :
 
 ## 🧠 Résultats clés
 
-- Cibler les jeunes avec des stratégies digitales et des innovations.
-- Adapter la communication selon les communes (réseaux sociaux vs affichage).
-- Adapter la communication selon les communes (réseaux sociaux vs affichage).
-- Améliorer la connaissance des produits via des campagnes éducatives.
-- Travailler sur la satisfaction client pour augmenter la WTP.
-- Équilibrer les stratégies pour les deux genres, avec un focus léger sur les femmes pour l'innovation.
+1.Ciblage Marketing
+- Priorité aux 18-26 ans, avec des messages axés sur l’innovation et l’expérience.
+- Approche genrée : campagnes éducatives pour les femmes, arguments techniques pour les hommes.
+
+2.Stratégie de Prix
+- Offres abordables (5 000 - 15 000) pour la majorité, avec des options premium pour les clients à forte WTP.
+- Paiements échelonnés ou abonnements pour faciliter l’accès.
+
+3.Amélioration de la Satisfaction
+- Enquêter sur les causes des scores <4 (qualité, SAV, etc.).
+- Programmes de fidélité pour encourager les achats répétés.
+
+4.Communication
+- Focus sur les réseaux sociaux (Instagram, WhatsApp) et le bouche-à-oreille.
+-Contenus éducatifs pour améliorer la connaissance des produits.
+
+5.Adaptation Géographique
+-Centres urbains : Marketing offline (affichage, événements).
+-Périphéries : Campagnes digitales (SMS, pubs ciblées).
 
 ## 📎 Organisation du projet
 - `data/` : Données brutes de l'enquête
