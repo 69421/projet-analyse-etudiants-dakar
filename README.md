@@ -41,10 +41,12 @@ L'analyse s'est déroulée en deux phases :
 
 ## 🧠 Résultats clés
 
-- Les étudiants les plus satisfaits sont ceux qui perçoivent une meilleure disponibilité et qualité du service.
-- Le niveau de connaissance des produits influence fortement la fréquence d’achat.
-- Le levier principal d’adhésion est le **rapport qualité/prix**, suivi de la **disponibilité**.
-- Les supports d’information préférés varient selon la commune et l’âge.
+- Cibler les jeunes avec des stratégies digitales et des innovations.
+- Adapter la communication selon les communes (réseaux sociaux vs affichage).
+- Adapter la communication selon les communes (réseaux sociaux vs affichage).
+- Améliorer la connaissance des produits via des campagnes éducatives.
+- Travailler sur la satisfaction client pour augmenter la WTP.
+- Équilibrer les stratégies pour les deux genres, avec un focus léger sur les femmes pour l'innovation.
 
 ## 📎 Organisation du projet
 - `data/` : Données brutes de l'enquête
