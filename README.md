@@ -49,7 +49,6 @@ L'analyse s'est déroulée en deux phases :
 ## 📎 Organisation du projet
 - `data/` : Données brutes de l'enquête
 - `notebooks/` : Notebook Jupyter d'analyse exploratoire
-- `scripts/` : Scripts Python pour le traitement des données
 - `rapport/` : Rapport final
 - `README.md` : Présentation du projet
 
