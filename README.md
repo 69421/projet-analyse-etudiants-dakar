@@ -36,8 +36,7 @@ L'analyse s'est déroulée en deux phases :
 
 - Python (pandas, seaborn, matplotlib, scipy, statsmodels)
 - Jupyter Notebook
-- Excel (exploration initiale)
-- Tableau ou Looker Studio pour les dashboards
+- Excel (exploration initiale et analyse univariée)
 
 ## 🧠 Résultats clés
 
