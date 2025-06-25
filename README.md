@@ -70,7 +70,3 @@ L'analyse s'est déroulée en deux phases :
 
 Projet réalisé par Cheikh Abdou MBACKE, étudiant en Science du Management et de la Décision – PGE 2 (CESAG)  
 Juin 2025
-<<<<<<< HEAD
-=======
-
->>>>>>> 7a86334 (Ajout des fichiers du projet et mise à jour du README)
